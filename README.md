@@ -4,8 +4,8 @@ Em um jogo de dardos, os pontos são calculados de acordo com a posição que o 
 
 	Dardos que não atingem o alvo, recebem 0 pontos;
     Dardos que atingem o círculo externo do alvo recebem 1 ponto;
-    Dados que atingem o círculo médio do alvo recebem 5 pontos;
-	Dados que atingem o círculo interno do alvo recebem 10 pontos;
+    Dardos que atingem o círculo médio do alvo recebem 5 pontos;
+	Dardos que atingem o círculo interno do alvo recebem 10 pontos;
     
 O alvo possui as seguintes dimensões:
 
